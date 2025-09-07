@@ -14,10 +14,11 @@
     width: 700px;
     height: 500px;
     padding: 20px 40px;
-    /* text-align: center; */
+    text-align: center;
   }
 .card img {
     max-width: 150px;
     max-height: 150px;
+    align-items: center;
    /*border-radius: 8px;*/
   }
