@@ -1,1 +1,24 @@
 /* Your CSS here. */
+body {
+    .container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    min-height: 100vh;      
+  }
+  .center-text {
+    text-align: center;
+  }
+  .card {
+    background-color: paleturquoise;
+    width: 700px;
+    height: 500px;
+    padding: 20px 40px;
+    /* text-align: center; */
+  }
+  .card img {
+    max-width: 150px;
+    max-height: 150px;
+   /*border-radius: 8px;*/
+  }
+}
